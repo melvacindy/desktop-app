@@ -1,0 +1,15 @@
+CBHS-26-0163,SZ-SFP-867,26,Belden,8,Mellanox,5 Meter,75,Raw Cable Drawing Rev E,EDR Raw Cable 8 Pairs 26 Awg
+CBHS-26-0164,SZ-SFP-866,26,Belden,4,Mellanox,5 Meter,75,Raw Cable Drawing Rev E,EDR Raw Cable 4 Pairs 26 Awg
+CBHS-26-0165,XXSFP7050001,26,Belden,2,Mellanox,5 Meter,75,Raw Cable Drawing Rev E,EDR Raw Cable 2 Pairs 26 Awg
+CBHS-26-0166,L45468-J414-C2006,26,Leoni,8,Mellanox,5 Meter,35,Raw Cable Drawing Rev A,EDR Raw Cable 8 Pairs 26 Awg
+CBHS-26-0169,L45468-J214-C2006,26,Leoni,4,Mellanox,5 Meter,35,Raw Cable Drawing Rev A,EDR Raw Cable 4 Pairs 26 Awg
+CBHS-26-0170,L45468-J14-C2006,26,Leoni,2,Mellanox,5 Meter,35,Raw Cable Drawing Rev A,EDR Raw Cable 2 Pairs 26 Awg
+CBHS-26-0179,XXSFP7800001,26,Belden,2,Mellanox,5 Meter,75,Raw Cable Drawing Rev B,EDR Raw Cable 2 Pairs 26 Awg
+CBHS-30-0161,,30,LTK,2,Amazon,3 Meter,45,Raw Cable Drawing Rev C,EDR Raw Cable 2 Pairs 30 Awg
+CBHS-30-0163,,30,LTK,8,Amazon,3 Meter,45,Raw Cable Drawing Rev B,EDR Raw Cable 8 Pairs 30 Awg
+CBHS-30-0192,XXSFP7030001,30,Belden,8,Mellanox,3 Meter,75,Raw Cable Drawing Rev E,EDR Raw Cable 8 Pairs 30 Awg
+CBHS-30-0193,SZ-SFP-858,30,Belden,4,Mellanox,3 Meter,75,Raw Cable Drawing Rev E,EDR Raw Cable 4 Pairs 30 Awg
+CBHS-30-0194,XXSFP7010001,30,Belden,2,Mellanox,3 Meter,75,Raw Cable Drawing Rev E,EDR Raw Cable 2 Pairs 30 Awg
+CBHS-30-0198,L45468-J412-C2006,30,Leoni,8,Mellanox,3 Meter,35,Volex IQC Spec Rev 2.0,EDR Raw Cable 8 Pairs 30 Awg
+CBHS-30-0199,L45468-J212-C2006,30,Leoni,4,Mellanox,3 Meter,35,Volex IQC Spec Rev 2.0,EDR Raw Cable 4 Pairs 30 Awg
+Volex P/N,Supplier P/N,AWG,Vendor Raw cable ,Pair No,Client,Sample Length,Impedance Rise Time (ps),Test Specification,Device Under Test (DUT)
